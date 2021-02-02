@@ -1,0 +1,28 @@
+{
+	"skills": {
+		"languages": [
+			"c_plus_plus",
+			"java",
+			"c",
+			"system_verilog",
+			"python",
+			"matlab",
+			"html",
+			"css",
+			"javascript",
+			"markdown"
+		],
+		"misc": [
+			"vscode",
+			"github",
+			"linux",
+			"intellij",
+			"android_studio",
+			"vivado",
+			"sqlite",
+			"junit",
+			"cmake"
+		]
+	}
+}
+

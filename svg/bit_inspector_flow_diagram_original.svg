@@ -1,0 +1,34 @@
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <marker id="TriangleInM" overflow="visible" orient="auto">
+   <path transform="scale(-.4)" d="m5.77 0-8.65 5v-10l8.65 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="TriangleOutM" overflow="visible" orient="auto">
+   <path transform="scale(.4)" d="m5.77 0-8.65 5v-10l8.65 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="TriangleOutM-9" overflow="visible" orient="auto">
+   <path transform="scale(.4)" d="m5.77 0-8.65 5v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <path d="m66.146 20.479-0.13364 23.52" fill="none" marker-end="url(#TriangleOutM)" stroke="#000" stroke-linecap="round" stroke-miterlimit="3.9" stroke-width="1.0583"/>
+ <rect x="11.099" y="49.742" width="98.457" height="16.438" ry="3.8398" fill="#e2e59a" style="paint-order:stroke fill markers"/>
+ <text x="15.131725" y="61.544334" font-family="'Open Sans'" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="15.131725" y="61.544334" font-family="'Open Sans'" stroke-width=".26458">Bitstream file (.bit)</tspan></text>
+ <g>
+  <rect x="6.2827" y="-.033211" width="111.6" height="16.438" ry="3.8398" fill="#e2e59a" style="paint-order:stroke fill markers"/>
+  <text x="9.6421709" y="11.361273" fill="#000000" font-family="'Open Sans'" font-size="10.583px" stroke-width=".79375" style="line-height:1.25" xml:space="preserve"><tspan x="9.6421709" y="11.361273" fill="#000000" font-family="'Open Sans'" stroke-width=".79375">SystemVerilog Design</tspan></text>
+  <rect transform="scale(1,-1)" x="68.048" y="-110.37" width="93.676" height="16.438" ry="3.8398" fill="#e2e59a" style="paint-order:stroke fill markers"/>
+ </g>
+ <text x="71.459602" y="105.81884" font-family="'Open Sans'" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="71.459602" y="105.81884">Bit Inspector Tool</tspan><tspan x="71.459602" y="119.04797"/></text>
+ <rect x="141.14" y="49.742" width="116.88" height="16.438" ry="3.8398" fill="#bc9ae5" style="paint-order:stroke fill markers"/>
+ <text x="144.10153" y="61.412624" font-family="'Open Sans'" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="144.10153" y="61.412624" font-family="'Open Sans'" stroke-width=".26458">Bit Selection File (.bits)</tspan></text>
+ <rect x="200.23" y="93.927" width="120.04" height="16.438" ry="3.8398" fill="#bc9ae5" opacity=".35" style="paint-order:stroke fill markers"/>
+ <text x="202.84204" y="105.42432" font-family="'Open Sans'" font-size="10.583px" opacity=".35" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="202.84204" y="105.42432" font-family="'Open Sans'" stroke-width=".26458">Project X-Ray Database</tspan></text>
+ <path d="m169.29 102.2h26.743" marker-start="url(#TriangleInM)" opacity=".35" stroke="#000" stroke-linecap="round" stroke-miterlimit="3.9" stroke-width="1.0583" style="mix-blend-mode:normal"/>
+ <rect transform="scale(1,-1)" x="69.803" y="-160.47" width="94.027" height="16.438" ry="3.8398" fill="#9fe59a" style="paint-order:stroke fill markers"/>
+ <a transform="translate(-7.34 17.009)">
+ </a>
+ <path d="m67.182 70.161s0.16008 9.4894 23.151 9.2938c22.991-0.19566 28.682 8.5998 28.682 8.5998s-0.32417-8.6541 47.384-8.3962c39.564 0.21384 39.631-9.9139 39.631-9.9139" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.0583"/>
+ <path transform="matrix(-.35364 -.018123 .00041988 -.34649 138.64 117.3)" d="m63.758 82-14.24 0.85474 6.3798-12.76z" style="paint-order:stroke fill markers"/>
+ <path d="m121.15 115.04-0.13364 23.52" fill="none" marker-end="url(#TriangleOutM-9)" stroke="#000" stroke-linecap="round" stroke-miterlimit="3.9" stroke-width="1.0583"/>
+ <text x="72.567253" y="155.02031" font-family="'Open Sans'" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="72.567253" y="155.02031" font-family="'Open Sans'" stroke-width=".26458">Printed Bit Report</tspan></text>
+</svg>
