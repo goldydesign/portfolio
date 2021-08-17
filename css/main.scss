@@ -618,6 +618,18 @@ body {
   fill: $base-color-darker;
 }
 
+#bottom-resume-link {
+  font-size: 25px;
+  color: $base-color-light-2;
+  text-align: center;
+  margin-bottom: 30px;
+  text-decoration-line: none;
+}
+
+#bottom-resume-link:hover {
+  color: $base-color-lighter;
+}
+
 #bottom-text {
   color: $base-color-light;
   text-align: center;

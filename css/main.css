@@ -643,6 +643,19 @@ body {
   fill: #262626;
 }
 
+#bottom-resume-link {
+  font-size: 25px;
+  color: #8F8F8F;
+  text-align: center;
+  margin-bottom: 30px;
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+}
+
+#bottom-resume-link:hover {
+  color: #CCCCCC;
+}
+
 #bottom-text {
   color: #858585;
   text-align: center;
